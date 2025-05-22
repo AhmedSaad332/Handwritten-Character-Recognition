@@ -35,3 +35,4 @@ Trained using categorical crossentropy loss and the Adam optimizer.
 ## 📦 Dataset
 
 The dataset used includes grayscale images of handwritten characters, typically 28x28 pixels in size.
+Link : https://drive.google.com/file/d/1ETXuOJXg9U-oeaD_BkXtT0tJ9owI6nM4/view?usp=drive_link
